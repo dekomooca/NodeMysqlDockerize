@@ -1,0 +1,3 @@
+#Ignorando os arquivos .sock do mysql
+*.sock
+*.bin
